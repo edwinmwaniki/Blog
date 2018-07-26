@@ -14,7 +14,7 @@
 	<nav class="navbar navbar-expand-lg navbar-default">
       <div class="container">
         <div class="navbar-header">
-          <a class="navbar-brand" href="<?php echo base_url(); ?>">ciBlog</a>
+          <a class="navbar-brand" href="<?php echo base_url(); ?>">My Blog</a>
         </div>
         <div id="navbar">
           <ul class="nav navbar-nav">

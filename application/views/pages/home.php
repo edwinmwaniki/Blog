@@ -1,2 +1,2 @@
 <h2><?= $title ?></h2>
-<p>Welcome to ciBlog</p>
+<p>Welcome to My Blog</p>
